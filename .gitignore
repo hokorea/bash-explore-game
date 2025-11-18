@@ -1,0 +1,14 @@
+# vi/vim backup & swap files
+*~
+*.swp
+*.swo
+
+# macOS Finder system file
+.DS_Store
+
+# temporary files
+*.tmp
+*.log
+
+# hidden temporary files
+*#
